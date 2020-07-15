@@ -7,6 +7,7 @@ color: rgb(255,227,73)
 cover: 'https://s1.ax1x.com/2020/07/15/UdEHeg.jpg'
 subtitle: '啊这.jpg'
 tags: 杂谈
+music-id: 448917713
 ---
 
 ### 实习安排
@@ -44,4 +45,5 @@ tags: 杂谈
 ![是❀迪，快跑](https://s1.ax1x.com/2020/07/15/UdPKm9.jpg)
 
 ###另：
+
 给博客添加了音乐，一会儿睡觉起来改成每个文章不一样的音乐试试看
