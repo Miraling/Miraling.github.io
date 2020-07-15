@@ -5,6 +5,7 @@ date: 2020-07-15
 author: 某不愿透露姓名的林先生
 color: rgb(255,227,73)
 cover: 'https://s1.ax1x.com/2020/07/15/UdEHeg.jpg'
+subtitle: '啊这.jpg'
 tags: 杂谈
 ---
 
@@ -41,3 +42,6 @@ tags: 杂谈
 ​		并且对学弟学妹说：
 
 ![是❀迪，快跑](https://s1.ax1x.com/2020/07/15/UdPKm9.jpg)
+
+###另：
+给博客添加了音乐，一会儿睡觉起来改成每个文章不一样的音乐试试看
