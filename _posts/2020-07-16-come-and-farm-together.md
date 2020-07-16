@@ -10,9 +10,9 @@ tags: 游戏
 music-id: 34144852
 ---
 
-# 此时我的农场时刻：
 
-<span id="farmtime"></span>
+
+<h2 id="farmtime"></h2>
 
 <script>
     function time() {
@@ -29,7 +29,7 @@ music-id: 34144852
             case 3:
                 var season = "秋";break;
         }
-        var str = "农场时间: " + season + Math.floor(utime % aseason / 60000) + "/17";
+        var str = "此刻我的农场时间:  " + season + Math.floor(utime % aseason / 60000) + "/17";
         var div1 = document.getElementById("farmtime");
         div1.innerHTML = str;
     }
