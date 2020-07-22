@@ -50,6 +50,22 @@ Farm Together真的是款很不错的游戏，本来是奔着种地去的，但�
 
 接下来放送照片！（随缘更新
 
+————2020.7.22更新————和谷歌、wk拍了游客照
+
+![沙滩宣传照](https://s1.ax1x.com/2020/07/22/UHKUiR.png)
+
+![太棒啦](https://s1.ax1x.com/2020/07/22/UHKEqg.png)
+
+![一起在厨房吃早餐](https://s1.ax1x.com/2020/07/22/UHMltA.png)
+
+![晚上康好康的电视](https://s1.ax1x.com/2020/07/22/UHMs10.png)
+
+![谷歌&wk参观卫生间](https://s1.ax1x.com/2020/07/22/UHMXAH.png)
+
+![目送谷歌远航](https://s1.ax1x.com/2020/07/22/UHKjS0.png)
+
+————初版内容——————
+
 ![在建的树屋](https://s1.ax1x.com/2020/07/16/UDlw40.png)
 
 ![黄昏户外烧烤](https://s1.ax1x.com/2020/07/16/UDlvPP.png)
