@@ -66,7 +66,7 @@ music-id: 5189652
 
 ## GitHub 设置
 
-- 在项目仓库的 **Settings** ==> **Pages **，选择**Source**来源为**Branch : gh-pages /root**，保存。
+- 在项目仓库的 **Settings** ==> **Pages**，选择**Source** 来源为 **Branch : gh-pages /root**，保存。
 
 
 
