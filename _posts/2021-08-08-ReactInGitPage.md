@@ -10,7 +10,7 @@ tags: 前端 React
 music-id: 5189652
 ---
 
-开始新的尝试，啦啦啦
+开始新的尝试，啦啦啦。嘻嘻，我设置的 BGM 每次都把我自己吓一跳 :)
 
 ## 本地项目
 
@@ -66,7 +66,7 @@ music-id: 5189652
 
 ## GitHub 设置
 
-- 在项目仓库的 **Settings** ==> **Pages**，选择**Source** 来源为 **Branch : gh-pages /root**，保存。
+- 在项目仓库的 **Settings** ==> **Pages**，选择 **Source** 来源为 **Branch : gh-pages /root** ，保存。
 
 
 
@@ -80,4 +80,4 @@ music-id: 5189652
 
 
 
-后续想弄点后端api，maybe  [leancloud](https://link.zhihu.com/?target=https%3A//leancloud.cn/) ?
+后续想弄点后端api，maybe  [leancloud](https://leancloud.cn/) ?
