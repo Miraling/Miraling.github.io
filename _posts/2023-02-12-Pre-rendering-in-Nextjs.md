@@ -129,6 +129,7 @@ export async function getServerSideProps(context) {
 
 -   静态生成（预渲染）页面时，不需要外部数据。
 -   当页面加载时，才使用 JavaScript 从客户端获取外部数据并填充其余部
+
 ### 适用场景
 与 SEO 无关的私人的、用户特定的页面
 
